@@ -18,11 +18,11 @@ This project provides real-time sales insights through Power BI dashboards, enab
 
 ```
 Sales-and-Revenue-Analysis/
-├── Cleaned_Dataset.xlsx          # Processed and cleaned data ready for analysis
-├── Uncleaned_Dataset.xlsx        # Raw data before cleaning
-├── Sales_Dash.pbit               # Power BI dashboard template
-├── Sales_and_Revenue_Analysis_Report.docx  # Detailed analysis report
-└── README.md                     # Project documentation
+├── Cleaned_Dataset.xlsx                      # Processed and cleaned data ready for analysis
+├── Uncleaned_Dataset.xlsx                    # Raw data before cleaning
+├── Sales_Dash.pbit                           # Power BI dashboard template
+├── Sales_and_Revenue_Analysis_Report.docx    # Detailed analysis report
+└── README.md                                 # Project documentation
 ```
 
 ## 📈 Dataset Description
